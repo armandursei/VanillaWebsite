@@ -1,0 +1,15 @@
+/* Shared stylesheet for all pages of the combustion engines site. */
+
+/* Centered page header (title + navigation) and footer (motto). */
+header,
+footer {
+  text-align: center;
+}
+
+/* Single-line borders for the data tables (including nested ones). */
+table,
+th,
+td {
+  border: 1px solid;
+  border-collapse: collapse;
+}
